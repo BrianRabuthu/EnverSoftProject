@@ -1,0 +1,31 @@
+
+  <div class="submit-form">
+    <form ngNativeValidate>
+      <div *ngIf="!submitted">
+        <div class="form-group">
+          <label for="SupplierName">Supplier Name</label>
+          <input type="text"
+                 class="form-control"
+                 id="SupplierName"
+                 [(ngModel)]="supplier.SupplierName"
+                 name="SupplierName" ngModel required />
+        </div>
+
+        <div class="form-group">
+          <label for="SupplierTelephone">Telephone Number</label>
+          <input class="form-control"
+                 id="SupplierTelephone"
+                 required
+                 [(ngModel)]="supplier.SupplierTelephone"
+                 name="SupplierTelephone" />
+        </div>
+
+        <button (click)="saveSupplier()" class="btn btn-success">Submit</button>
+      </div>
+    </form>
+      <div *ngIf="submitted">
+        <h4>You submitted successfully!</h4>
+        <button class="btn btn-success" (click)="newSupplier()">Add</button>
+      </div>
+  </div>
+

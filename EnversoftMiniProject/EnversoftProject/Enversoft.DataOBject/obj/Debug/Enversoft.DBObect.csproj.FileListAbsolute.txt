@@ -1,0 +1,12 @@
+C:\Users\tebogor\source\repos\EnverSoft\EnversoftDAO\EnversoftDAO\bin\Debug\EnversoftDAO.dll.config
+C:\Users\tebogor\source\repos\EnverSoft\EnversoftDAO\EnversoftDAO\bin\Debug\EnversoftDAO.dll
+C:\Users\tebogor\source\repos\EnverSoft\EnversoftDAO\EnversoftDAO\bin\Debug\EnversoftDAO.pdb
+C:\Users\tebogor\source\repos\EnverSoft\EnversoftDAO\EnversoftDAO\bin\Debug\EntityFramework.dll
+C:\Users\tebogor\source\repos\EnverSoft\EnversoftDAO\EnversoftDAO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tebogor\source\repos\EnverSoft\EnversoftDAO\EnversoftDAO\bin\Debug\EntityFramework.xml
+C:\Users\tebogor\source\repos\EnverSoft\EnversoftDAO\EnversoftDAO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tebogor\source\repos\EnverSoft\EnversoftDAO\EnversoftDAO\obj\Debug\Enversoft.DBObect.csprojAssemblyReference.cache
+C:\Users\tebogor\source\repos\EnverSoft\EnversoftDAO\EnversoftDAO\obj\Debug\Enversoft.DBObect.csproj.CoreCompileInputs.cache
+C:\Users\tebogor\source\repos\EnverSoft\EnversoftDAO\EnversoftDAO\obj\Debug\Enversoft.DBObect.csproj.CopyComplete
+C:\Users\tebogor\source\repos\EnverSoft\EnversoftDAO\EnversoftDAO\obj\Debug\EnversoftDAO.dll
+C:\Users\tebogor\source\repos\EnverSoft\EnversoftDAO\EnversoftDAO\obj\Debug\EnversoftDAO.pdb

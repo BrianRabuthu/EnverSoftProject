@@ -1,0 +1,53 @@
+<div>
+  <div class="col-md-6">
+    <div class="input-group mb-3">
+      <input type="text"
+             class="form-control"
+             placeholder="Search supplier name"
+             [(ngModel)]="SupplierName" />
+      <div class="input-group-append">
+        <button class="btn btn-outline-secondary"
+                type="button"
+                (click)="searchSupplier()">
+          Search
+        </button>
+      </div>
+    </div>
+  </div>
+  
+  <div><p class="text-danger"><strong>{{ errorResponse }}</strong></p></div>
+    <div class="row" *ngIf="!errorResponse">
+      <div class="col-md-6">
+        <h4>Suppliers List</h4>
+        <ul class="list-group">
+          <li class="list-group-item"
+              *ngFor="let supplier of suppliers; let i = index"
+              [class.active]="i == currentIndex"
+              (click)="setActiveSupplier(supplier, i)">
+            {{ supplier.SupplierName }}
+          </li>
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <div *ngIf="currentSupplier">
+          <h4>Supplier Details</h4>
+          <div>
+            <label><strong>Name:</strong></label> {{ currentSupplier.SupplierName }}
+          </div>
+          <div>
+            <label><strong>Telephone:</strong></label>
+            {{ currentSupplier.SupplierTelephone }}
+          </div>
+          <div>
+            <label><strong>Status:</strong></label>
+            {{ currentSupplier.isActive ? "Active" : "Deleted" }}
+          </div>
+        </div>
+
+        <div *ngIf="!currentSupplier">
+          <br />
+          <p>Please click on a Supplier to view details...</p>
+        </div>
+      </div>
+    </div>
+  </div>

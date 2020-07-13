@@ -1,0 +1,15 @@
+C:\Users\tebogor\source\repos\EnverSoft\EnversoftDAO\Enversoft.BusinessLogic\bin\Debug\Enversoft.BusinessLogic.dll
+C:\Users\tebogor\source\repos\EnverSoft\EnversoftDAO\Enversoft.BusinessLogic\bin\Debug\Enversoft.BusinessLogic.pdb
+C:\Users\tebogor\source\repos\EnverSoft\EnversoftDAO\Enversoft.BusinessLogic\bin\Debug\EnversoftDAO.dll
+C:\Users\tebogor\source\repos\EnverSoft\EnversoftDAO\Enversoft.BusinessLogic\bin\Debug\EnversoftModel.dll
+C:\Users\tebogor\source\repos\EnverSoft\EnversoftDAO\Enversoft.BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\tebogor\source\repos\EnverSoft\EnversoftDAO\Enversoft.BusinessLogic\bin\Debug\EnversoftDAO.pdb
+C:\Users\tebogor\source\repos\EnverSoft\EnversoftDAO\Enversoft.BusinessLogic\bin\Debug\EnversoftDAO.dll.config
+C:\Users\tebogor\source\repos\EnverSoft\EnversoftDAO\Enversoft.BusinessLogic\bin\Debug\EnversoftModel.pdb
+C:\Users\tebogor\source\repos\EnverSoft\EnversoftDAO\Enversoft.BusinessLogic\bin\Debug\EnversoftModel.dll.config
+C:\Users\tebogor\source\repos\EnverSoft\EnversoftDAO\Enversoft.BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\tebogor\source\repos\EnverSoft\EnversoftDAO\Enversoft.BusinessLogic\obj\Debug\Enversoft.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\tebogor\source\repos\EnverSoft\EnversoftDAO\Enversoft.BusinessLogic\obj\Debug\Enversoft.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\tebogor\source\repos\EnverSoft\EnversoftDAO\Enversoft.BusinessLogic\obj\Debug\Enversoft.BusinessLogic.csproj.CopyComplete
+C:\Users\tebogor\source\repos\EnverSoft\EnversoftDAO\Enversoft.BusinessLogic\obj\Debug\Enversoft.BusinessLogic.dll
+C:\Users\tebogor\source\repos\EnverSoft\EnversoftDAO\Enversoft.BusinessLogic\obj\Debug\Enversoft.BusinessLogic.pdb
